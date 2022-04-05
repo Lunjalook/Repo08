@@ -6,4 +6,4 @@ function funcWithArg(digit) {
 total = funcWithArg(6);
 
 console.log(total);
-module.export = funcWithArg;
+module.exports = funcWithArg;
